@@ -1,5 +1,5 @@
 class Solution {
-    // Time: O(n)
+    // Time: O(log n)
     // Space: O(1)
     public int search(int[] nums, int target) {
         int left = 0;
